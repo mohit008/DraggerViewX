@@ -18,7 +18,7 @@ import com.dragger.service.OnTopService;
 
 public class MainSwipper extends Activity {
 
-    int PERMISSIONS_REQUEST = 100;
+    int PERMISSIONS_REQUEST = 2344;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
